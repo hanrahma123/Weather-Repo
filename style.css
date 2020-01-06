@@ -1,0 +1,81 @@
+body{
+    background-image: url("wallpaper.jpg");
+    font-family: Arial, sans-serif;
+   
+
+}
+.wrapper{
+    background-color: black;
+    width: 600px;
+    height: 670px;
+    padding: 50px;
+    padding-top: 0px;
+    margin: 0px auto;
+    color: white;
+}
+
+h1 {
+    color: white;
+    margin: 10px auto 20px auto;
+}
+
+h3{
+    color: white;
+}
+
+p {
+    color: white;
+    width: 500px;
+    height: 420px;
+    margin: 0px auto;
+    border: 1px solid white;
+    overflow: hidden;
+   
+}
+#Ajaxform{
+    color: red;
+    font-family: monospace;
+    font-size: 110%;
+}
+
+ul{
+    width: 200px;
+    padding: 15px 0px;
+    margin: 0px auto ;
+   /* background-color:white;*/
+   
+}
+li{
+    display: inline;
+    
+}
+a{
+    text-decoration: none ;
+    color: white;
+
+}
+.on{
+    color: red;
+}
+
+a:hover{
+    color:grey;
+}
+
+#but{
+    background-color: black;
+    color: white;
+    margin: 10px 10px;
+}
+
+#but:hover{
+    background-color: grey;
+}
+#City{
+    background-color:white;
+    border: grey solid; 
+}
+form{
+    /*border: greenyellow solid;*/
+    margin: 0px 10px 20px 10px;
+}
